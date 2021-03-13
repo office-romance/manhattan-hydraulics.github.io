@@ -1,4 +1,4 @@
-# Manhattan Hydraulics Web Site ™
+
 
 [![Build Eleventy to GitHub Pages](https://github.com/Manhattan-Hydraulics/manhattan-hydraulics.github.io/actions/workflows/gh-pages.yml/badge.svg)](https://github.com/Manhattan-Hydraulics/manhattan-hydraulics.github.io/actions/workflows/gh-pages.yml)
 
