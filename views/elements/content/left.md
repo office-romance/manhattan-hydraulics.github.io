@@ -3,8 +3,8 @@
 ## Work in progress
 
 - A handmade website for building together
-- Reimagining food delivery to a platform cooperative
-- Designing and building a kitchen
+- Reimagining food delivery as a platform cooperative
+- Designing and building a commercial kitchen
 
 
 ## Team updates
