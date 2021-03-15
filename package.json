@@ -13,9 +13,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Manhattan-Hydraulics/site/issues"
+    "url": "https://github.com/office-romance/romance-office-hydraulics/issues"
   },
-  "homepage": "https://github.com/Manhattan-Hydraulics/site#readme",
+  "homepage": "https://github.com/office-romance/romance-office-hydraulics#readme",
   "devDependencies": {
     "eslint": "^7.16.0"
   },
